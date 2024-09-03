@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6b72885aad8fc7c4e9a6492f68263da7
+  - enabled: 1
+    path: Assets/Scenes/Le/Test.unity
+    guid: e238316107f94f6498d002305d7ac5d3
+  - enabled: 1
+    path: Assets/Scenes/Le/World1.unity
+    guid: fd5dd972b2861824b85d6e9f16fbf4e7
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 1f815caceb9b5f744a212153c554a5f3
+  - enabled: 1
+    path: Assets/Scenes/MenuAfterOver.unity
+    guid: b146a9a41deca9b4ba69efe474aa3053
+  - enabled: 1
+    path: Assets/Scenes/Story01.unity
+    guid: fa73b0be5ad506e489ed08fe03d5a64c
+  - enabled: 1
+    path: Assets/Scenes/Story02.unity
+    guid: 91d8911dd24802644bb33ae200e65c3d
+  - enabled: 1
+    path: Assets/Scenes/Story03.unity
+    guid: fe44f68650f410a4d938e9b2e7584397
+  - enabled: 1
+    path: Assets/Scenes/Story04.unity
+    guid: b84bfbaa529d688469b023910a54486e
+  - enabled: 1
+    path: Assets/Scenes/Story05.unity
+    guid: c89cdbc908c7a1445b27d7cb2cd7a658
+  - enabled: 1
+    path: Assets/Scenes/World2.unity
+    guid: 101ff1e511e9ff247b4b3fa400182cda
+  - enabled: 1
+    path: Assets/Scenes/World3.unity
+    guid: 5b38868b55030264baa5e6f1c08617bf
+  - enabled: 1
+    path: Assets/Scenes/Worl4-Boss.unity
+    guid: 0d72a1c04cde3dc4d95b952ff0c636f2
+  - enabled: 1
+    path: Assets/Scenes/World5.unity
+    guid: da505b1bc5d3f2f4ca668dac94d2c225
+  - enabled: 1
+    path: Assets/Scenes/Story06.unity
+    guid: 948623e8b5737cd428283eea230e6b05
+  - enabled: 1
+    path: Assets/Scenes/World6.unity
+    guid: 2138518020a813346b1fe9c203753593
+  - enabled: 1
+    path: Assets/Scenes/World7-Boss.unity
+    guid: 0ba3d2d964aec354ea77845c453cd93e
+  - enabled: 1
+    path: Assets/Scenes/World8.unity
+    guid: 75a8b4407bc1fa2409409d1c227e3a3a
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: d6d7117f25d1fe0418f7c3d1a944bc32
+  - enabled: 1
+    path: Assets/Scenes/GameOverBoss1.unity
+    guid: db3cee566ba6842459778f14afbdce6a
+  - enabled: 1
+    path: Assets/Scenes/GameOverBoss2.unity
+    guid: 663625496a9a7584b99390070668f61b
+  - enabled: 1
+    path: Assets/Scenes/World1.unity
+    guid: 24350a03af652874ab6a400bfb46ab68
+  m_configObjects: {}

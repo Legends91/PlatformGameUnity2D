@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 4cbe6daf97be02b409d3a7e54a35a7f1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Mewrun_Frame_0
+    originalName: 
+    pivot: {x: 9.615385, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 52
+      width: 26
+      height: 17
+    spriteID: c1d068cae4839e94bbedb6aba01a5e99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 52}
+  - name: Mewrun_Frame_1
+    originalName: 
+    pivot: {x: 8.346154, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 52
+      width: 26
+      height: 17
+    spriteID: d684de5f62345a146a0be6892a3b8f51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 299, y: 52}
+  - name: Mewrun_Frame_2
+    originalName: 
+    pivot: {x: 7.115385, y: -0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 52
+      width: 26
+      height: 18
+    spriteID: 825283b05461fac4eb7248530759f424
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 52}
+  - name: Mewrun_Frame_3
+    originalName: 
+    pivot: {x: 5.703704, y: -0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 52
+      width: 27
+      height: 18
+    spriteID: 6f1a9c925e53d2f40af92db84dee7d4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 52}
+  - name: Mewrun_Frame_4
+    originalName: 
+    pivot: {x: 4.2068963, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 29
+      height: 18
+    spriteID: 96132e79548221245976f4f789f6936b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 52}
+  - name: Mewrun_Frame_5
+    originalName: 
+    pivot: {x: 3, y: -0.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 52
+      width: 30
+      height: 17
+    spriteID: f8d8a87ad735f6b4f91a8fd4defc6905
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 52}
+  - name: Mewrun_Frame_6
+    originalName: 
+    pivot: {x: 1.8709676, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 52
+      width: 31
+      height: 16
+    spriteID: 2d8ad08cf8e3cd44e98ed65911f3283d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 52}
+  - name: Mewrun_Frame_7
+    originalName: 
+    pivot: {x: 0.81249976, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 4
+      width: 32
+      height: 16
+    spriteID: 931e54262e945a24287b16e93266134c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 465, y: 4}
+  - name: Mewrun_Frame_8
+    originalName: 
+    pivot: {x: -0.22580643, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 52
+      width: 31
+      height: 16
+    spriteID: e7df5e994cdc664498442ab3049d69a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 52}
+  - name: Mewrun_Frame_9
+    originalName: 
+    pivot: {x: -1.225806, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 52
+      width: 31
+      height: 15
+    spriteID: 26682044b21e6584c86abb17d5420db7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 52}
+  - name: Mewrun_Frame_10
+    originalName: 
+    pivot: {x: -2.4999998, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 52
+      width: 28
+      height: 15
+    spriteID: a7c7ebf620cb7ad4ba8f6c6a2ae7dcf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 52}
+  - name: Mewrun_Frame_11
+    originalName: 
+    pivot: {x: -0.75675666, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 29
+      width: 74
+      height: 15
+    spriteID: 0f6971568eff13f4c9518480826bcac1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 29}
+  - name: Mewrun_Frame_12
+    originalName: 
+    pivot: {x: -5.1538467, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 52
+      width: 26
+      height: 15
+    spriteID: dde21756b70cace418353c0fb00c0465
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 52}
+  - name: Mewrun_Frame_13
+    originalName: 
+    pivot: {x: -6.1481485, y: -0.53333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 369
+      y: 52
+      width: 27
+      height: 15
+    spriteID: 97e2a86afa7e94a4bbc1bfcccf40c874
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 369, y: 52}
+  - name: Mewrun_Frame_14
+    originalName: 
+    pivot: {x: 0.5033112, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 453
+      height: 17
+    spriteID: 09d802dcb1dca8c42a89ddfc6507dd39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 759608990
+    name: Mewrun
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Mewrun_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 8
+        width: 26
+        height: 17
+      spriteId: c1d068cae4839e94bbedb6aba01a5e99
+    - name: Mewrun_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 33
+        y: 8
+        width: 26
+        height: 17
+      spriteId: d684de5f62345a146a0be6892a3b8f51
+    - name: Mewrun_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 65
+        y: 8
+        width: 26
+        height: 18
+      spriteId: 825283b05461fac4eb7248530759f424
+    - name: Mewrun_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 96
+        y: 8
+        width: 27
+        height: 18
+      spriteId: 6f1a9c925e53d2f40af92db84dee7d4c
+    - name: Mewrun_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 128
+        y: 7
+        width: 29
+        height: 18
+      spriteId: 96132e79548221245976f4f789f6936b
+    - name: Mewrun_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 160
+        y: 9
+        width: 30
+        height: 17
+      spriteId: f8d8a87ad735f6b4f91a8fd4defc6905
+    - name: Mewrun_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 192
+        y: 9
+        width: 31
+        height: 16
+      spriteId: 2d8ad08cf8e3cd44e98ed65911f3283d
+    - name: Mewrun_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 224
+        y: 9
+        width: 32
+        height: 16
+      spriteId: 931e54262e945a24287b16e93266134c
+    - name: Mewrun_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 257
+        y: 9
+        width: 31
+        height: 16
+      spriteId: e7df5e994cdc664498442ab3049d69a3
+    - name: Mewrun_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 288
+        y: 10
+        width: 31
+        height: 15
+      spriteId: 26682044b21e6584c86abb17d5420db7
+    - name: Mewrun_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 320
+        y: 10
+        width: 28
+        height: 15
+      spriteId: a7c7ebf620cb7ad4ba8f6c6a2ae7dcf7
+    - name: Mewrun_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 306
+        y: 8
+        width: 74
+        height: 15
+      spriteId: 0f6971568eff13f4c9518480826bcac1
+    - name: Mewrun_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 384
+        y: 8
+        width: 26
+        height: 15
+      spriteId: dde21756b70cace418353c0fb00c0465
+    - name: Mewrun_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 416
+        y: 8
+        width: 27
+        height: 15
+      spriteId: 97e2a86afa7e94a4bbc1bfcccf40c874
+    - name: Mewrun_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 22
+        y: 8
+        width: 453
+        height: 17
+      spriteId: 09d802dcb1dca8c42a89ddfc6507dd39
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 500, y: 32}
